@@ -1,0 +1,113 @@
+Overriding: out_dir = out-shakespeare-char
+Overriding: device = cpu
+Overriding: start = ROMEO:
+Overriding: num_samples = 5
+Overriding: max_new_tokens = 500
+number of parameters: 0.80M
+Loading meta from data\shakespeare_char\meta.pkl...
+ROMEO:
+O hed leaw I will to my make on Laman,
+Lo, the lord, as the ars blate though wast confunt
+This thing for it my send,ing bows farse dowed,
+Nor have will would and murs's consel.
+
+MEOF:
+Sir, should and then thee.
+
+GRICHARD one, enceling:
+Or house
+Your to do the all in despery I parve porge,
+And shall not aple bralance the my plife friend.
+Why should not seed liSian be me,
+A light strought weart a king here shall
+And so arttion I breatio:
+Trale time him the witHer's bout thing thy a moy
+A to therr
+---------------
+ROMEO:
+I wull the say love treage to my prove.
+
+ICIRIIA:
+He had and I clann what would sy pile.
+
+MYUKE MIOF OYCE:
+Shall
+Pule are wen way bane and thought I a the thems
+Thet me staing and ous the broted a well.
+
+MUDINE:
+Have was he sir, tye as tor thee o, the beod
+And I sto be in to do bun a go.
+
+BORWARDch:
+That a heaven my cournamants, wo that art is way.
+
+QUEEN CARWIUS:
+For dight erge masters: lold the had in but sway faulter
+thing miring conserly.
+Why thouf than souch low the kings, bot here,
+'I tha
+---------------
+ROMEO:
+And his mine fricious when me begood thy lave.
+
+GLAUS! it Eyghts?
+
+DUKE CIOLAN:
+Fird, Securtion;
+I ward I that in my shall in world intree housermon
+That you, that sless lord; this have state as
+O fort and beake and with shen, a nor faipse;
+The is the spice high such a deate there.
+
+ANGZENTES:
+I lay thee eart you say.
+
+QUEEN RIAN A Gawe me, pusiong you.
+
+BOLONEET:
+Go, foll reans the heave are strow'dly him grotand for a sue
+A my growelf and conder to burth die!
+and our may the frear in clifest 
+---------------
+ROMEO:
+If revencely givesing With I will forth ought.
+All make in a will no rep thanly fate,
+A my ond his long shall. I what wall the the death
+is word wherepaks dut to the deeds death.
+
+BERCUTER:
+Or then crest be drold in seecition are.
+
+CGRIO:
+SkainS:
+A you are be your and ther kendice, my be reave shee.
+That have heer dedy sing the the couse bease.
+
+MERDIEL:
+I heard be ladick in death in the my weard,
+I should the are good you that one bothan were
+To good dight, should is mouse enem your Claiin
+Tha
+---------------
+ROMEO:
+Set duke a rentles you king, as with her.
+
+COLIO:
+I my shall love you the with thee, not.
+
+CAULINE:
+Her she say strands that our gesarm and lord;
+Bet lordow Rick, and muwil I neave warn theirs in death,
+And more his think shalt coors you huse say.
+
+VELDO:
+As I wail of you a day all bepence the pard,
+Bust that a love king a gace man,
+As in my later sood I coursues my the time.
+ISA ward I dus we thouse the condeling him man.
+
+KING YLOK:
+Fy doou have king a which warty the of the our
+Lades, this b
+---------------
